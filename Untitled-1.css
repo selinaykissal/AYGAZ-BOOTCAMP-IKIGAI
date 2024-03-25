@@ -1,0 +1,50 @@
+/* Genel stiller buraya */
+body {
+    background-color: #9439d5; /* Mor arka plan rengi */
+    color: white; /* Tüm yazılar beyaz renkte */
+    font-family: Arial, sans-serif; /* Arial yazı tipi */
+}
+
+/* Header stilleri */
+header {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Ana başlık */
+header h1 {
+    color: black; /* Ana başlık siyah renkte */
+}
+
+/* Navigation stilleri */
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+    text-decoration: none; /* Alt çizgiyi kaldır */
+}
+
+/* Main stilleri */
+main {
+    padding: 20px 0;
+}
+
+/* Footer stilleri */
+footer {
+    background-color: #746196; /* Açık mor arka plan rengi */
+    padding: 20px 0;
+    text-align: left; /* Footer bölümü sola dayalı */
+    font-family: Arial, sans-serif; /* Arial yazı tipi */
+}
+
+/* Görsel boyutları */
+img {
+    width: 100px;
+    height: 100px;
+}
